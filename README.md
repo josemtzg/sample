@@ -7,6 +7,5 @@ Thid line on here
 
 New Line 
 
+<<<<<<< HEAD
 Esta Linea esta mamalona y es nueva!!
-
-
